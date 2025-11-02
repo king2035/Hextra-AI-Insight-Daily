@@ -4,23 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there! 👋 It's Hexi 2077 / justlovemaki
+#### Hey there! 何夕2077 / justlovemaki
 
-> A decade of code, cool at my fingertips, but silent struggles kept within.
-> Then, the AI revolution roared, and I vowed to conquer the digital skies!
+> Ten years of code, fingers chilling, a quiet plight,
+> An untold frustration, simmering, out of sight.
+> Then smart tech rumbles, a storm begins to brew,
+> Vowing to battle the clouds, a fresh start anew!
 
-#### My Code Philosophy ✨
+#### My Code Philosophy
 
-> Tech for the people, always.
+> Tech for the people! 🚀
 
-#### My Portfolio Highlights ✨
+#### My Cool Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script built on Cloudflare Workers.
+    *   An AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This platform, powered by Cloudflare Workers, aggregates and generates content. Every single day, it curates the latest and greatest in AI, including industry news, hot open-source projects, groundbreaking academic papers, and the buzz from top tech influencers.
-*   Wanna see more? Check out my [GitHub](https://github.com/justlovemaki) for all the juicy project deets!
+    *   This is a content aggregation and generation platform, powered by Cloudflare Workers. It keeps you in the loop with daily AI updates, from industry news and hot open-source projects to groundbreaking research papers and insights from top tech influencers. 🧠
+*   For more awesome projects, dive into my [GitHub](https://github.com/justlovemaki).
 
-#### What I'm Diving Into Lately 💡
+#### What I'm Exploring Right Now
 
-I'm super keen on LLM applications and website SEO, actively diving deep into learning and hands-on practice.
+I'm totally geeking out on LLM applications and website SEO right now, actively diving into learning and getting my hands dirty! 🤓
