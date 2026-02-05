@@ -4,50 +4,50 @@ type: page
 sidebar:
   exclude: true
 ---
-# Terms of Service
+# Service Terms
 
 *Effective Date: June 1, 2025*
 
 ---
 
-**ai.hubtoday** (referred to as "**the Site**" or "**we**") welcomes you! 👋 Before diving into our services, please take a moment to carefully read these Terms of Service. By accessing or using the Site, you’re basically saying "I agree!" to these terms.
+Welcome to **ai.hubtoday** (which we'll call "the Site" or "us"). Before diving into what we offer, take a moment to carefully read these Service Terms. By using or even just checking out the Site, you're cool with and agree to these terms.
 
-## 1. About Our Services
-Our services offer users a sweet array of paid subscription content and member perks! 🎁 Think blog posts, exclusive resources, e-books, and even community interactions. Heads up: some goodies are only for our subscribed users.
+## 1. Service Overview
+The Site provides users with paid subscription content and membership services. These awesome services include, but aren't limited to, blog posts, exclusive resources, e-books, and community interactions. Heads up: some content is only for our subscribed members.
 
 ## 2. User Registration & Accounts
-- **Users** need to provide a valid email address and set a password to register for an account. Easy peasy!
-- **Users** are totally responsible for their account's security and all activity happening under it. Seriously, **no transferring or sharing** your account with anyone else! 🚫
-- **The Site** can actually suspend or terminate your account if you ever break these terms. Just a heads up!
+- Users need to provide a valid email address and set a password to register for an account.
+- Users are solely responsible for their account's security and all activities under it. **Absolutely no** transferring or sharing your account.
+- The Site reserves the right to **suspend or terminate** a user's account if they violate these terms.
 
 ## 3. Paid Subscription Services
-- **Subscription services** are billed monthly/annually, with all costs clearly shown on the checkout page. No hidden fees, we promise!
-- **All payments** go through secure third-party platforms (like Stripe, PayPal). Don't worry, we never store your payment info here! 💳
-- **Subscriptions** will **auto-renew** unless you cancel before your current billing cycle ends. So keep an eye on that! 👀
-- **Our 14-Day Refund Policy** is pretty cool: If you're a first-time subscriber and not totally stoked with our service, you can request a full refund within 14 days of purchase. Just hit us up at the contact email provided at the end of these terms and tell us why you're bouncing. Each user gets one shot at this refund. After 14 days, or if it's not your first time subscribing, all payments are **non-refundable** unless the law explicitly says otherwise. Fair is fair, right?
+- Subscription services are billed on a monthly/annual basis, with fees clearly shown on the checkout page.
+- All payments are processed through third-party payment platforms (like Stripe, PayPal). The Site does not store your payment information – pretty sweet, right?
+- Subscriptions will **automatically renew** unless you cancel before the end of the current billing cycle.
+- **14-Day Refund Policy**: For first-time subscribers, if you're not totally satisfied with the service within 14 days of purchase, you can snag a full refund. Just hit us up via the contact email provided at the end of these terms and spill the beans on why you're requesting a refund. Each user gets one shot at this refund. After 14 days or for non-first-time subscriptions, **no refunds** will be issued unless legally required.
 
 ## 4. Content Usage & Intellectual Property
-- **All original content** (that's the good stuff!) is **copyrighted by the Site (hubtoday)**. Seriously, don't copy, republish, or use it for commercial purposes without our express permission. That's a big no-no! 🙅‍♀️
-- **Users** only get a **non-exclusive, non-transferable access right** to this content. It's just for your personal learning and reading pleasure, alright?
-- If you're thinking about commercial use or want to quote us extensively, please just reach out to the Site for authorization. We're usually pretty friendly! 😉
+- All original content is **copyrighted by the Site (hubtoday)**. Please don't copy, reproduce, or use it for commercial purposes without our permission.
+- Users are granted only a **non-exclusive, non-transferable access right** for personal learning and reading. Keep it personal, folks! 😉
+- For commercial use or extensive citations, please reach out to the Site to get authorization.
 
 ## 5. User Conduct Guidelines
-- **Please don't** upload, post, or spread any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Let's keep things respectful! 🙏
-- **It's a big no-no** to bulk download, scrape, or crack member-only content using any technical tricks. That's just not cool. 🚫
-- **The Site** totally reserves the right to remove inappropriate content and **ban rule-breaking users**. So play nice!
+- **Don't even think about** uploading, posting, or spreading any content that's illegal, harassing, false, offensive, or infringes on others' rights. Play nice!
+- **No, seriously, don't** attempt to bulk download, scrape, or crack member content using technical means.
+- The Site has the right to remove inappropriate content and **ban violating users**. Consider this your fair warning! 🚫
 
 ## 6. Service Changes & Interruptions
-- **We** totally reserve the right to change, suspend, or terminate any part or all of our services at any time, without prior notice. Just a heads up, things can evolve! 🚀
-- If **content** becomes temporarily unavailable due to things like force majeure, server glitches, or third-party service interruptions, **the Site isn't liable for any compensation**. Bummer, we know, but sometimes stuff just happens!
+- We reserve the right to change, suspend, or terminate part or all of our services at any time, without prior notice. Just giving you the heads-up now!
+- The Site **won't be held liable** for any damages if content becomes temporarily unavailable due to force majeure, server failures, or third-party service interruptions. Sometimes things just happen beyond our control. 🤷‍♀️
 
 ## 7. Disclaimer
-- **The info** provided on the Site is purely for reference. It **doesn't count** as any kind of professional advice (like financial, legal, medical, etc.). Always check with the pros!
-- **The Site** is **not responsible** for any direct or indirect losses users might face from using our content or services. Just keeping it real here! 🤷‍♀️
+- The information provided on the Site is strictly for reference only and **does not constitute** any professional advice (like financial, legal, or medical – we're not pros in those fields!).
+- The Site **is not responsible or liable** for any direct or indirect losses users might incur from using our content or services.
 
 ## 8. Governing Law
-- **These Terms of Service** are governed by and interpreted in accordance with the laws of the State of California, USA, without regard to its conflict of law principles. So, California law is the boss! ⚖️
-- If **any disputes** pop up from or relate to these terms, both parties agree to try and sort things out amicably first. If that doesn't work out, you agree to submit to the exclusive jurisdiction of the courts located in Santa Clara County, California. Let's hope it doesn't come to that, though! 😉
+- These Service Terms are governed by and interpreted in accordance with the laws of the State of California, USA, without regard to its conflict of law principles.
+- Any disputes arising from or related to these terms? Both parties should first try to hash things out amicably. If that doesn't work, you agree to submit to the jurisdiction of the courts located in Santa Clara County, California.
 
-## 9. Get in Touch
-- Got questions about these terms? **Feel free to contact us** using the info below! We're here to help. 🤗
+## 9. Contact Us
+- Got questions about these terms? Feel free to ping us using the details below:
 - 📧 **Email**: [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)

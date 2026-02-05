@@ -4,20 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-> A decade of coding, fingers often chill, thoughts unshared. But then, AI's storm hit! Now, I'm ready to take on the cloud, full throttle.
+> My fingers have been chilly from a decade of coding, but the fire in my belly? Still roaring! 🔥
+> Now that AI's shaking things up, I'm ready to throw down and conquer the cloud!
 
-#### 🚀 My Code Philosophy
+#### My Code Philosophy
 
-> Technology serves the people.
+> Technology for the people, that's the motto! 🚀
 
-#### ✨ My Portfolio
+#### My Top Projects 👇
 
-*   **[Open Source Contribution: CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is a cool AI image generation script I built using Cloudflare Workers.
-*   **[Open Source Contribution: CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: My Cloudflare Workers-powered platform for content aggregation and generation. It dishes out daily AI news, hot open-source projects, cutting-edge papers, and tech influencer takes.
-*   Want to dig into more projects? My [GitHub](https://github.com/justlovemaki) is packed with them!
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   CloudFlare-AI-Image: This open-source gem is an AI image generation script that runs on Cloudflare Workers.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   CloudFlare-AI-Insight-Daily: This total game-changer is a content aggregation and generation platform powered by Cloudflare Workers. It dishes out daily AI insights – from industry news and hot open-source projects to cutting-edge academic papers and even the latest tech guru social media chatter!
+*   Wanna dive deeper into my work? My [GitHub](https://github.com/justlovemaki) profile is stacked with more projects! Go check it out! 😉
 
-#### 🌱 What I'm Currently Exploring
+#### What I'm Diving Into Now 🚀
 
-Right now, I'm totally hooked on LLM applications and website SEO. I'm diving deep, learning tons, and getting hands-on!
+LLM applications and website SEO are currently stealing my focus! I'm completely immersed in learning the ropes and getting hands-on with these exciting fields.
