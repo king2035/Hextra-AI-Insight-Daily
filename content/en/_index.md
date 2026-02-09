@@ -3,81 +3,114 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-08
+next: /en/2026-02/2026-02-09
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily News 2026/2/9
+## AI News Daily 2026/2/10
 
-> `AI News` | `Daily Read` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voices` | `Open-Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Read` | `Aggregated Network Data` | `Frontier Science Exploration` | `Industry Free Voice` | `Open Source Innovation Power` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 ### **Today's Summary**
 
 ```
-Figure 03 robot, powered by Helix 02 three-tier architecture, achieves autonomous kitchen operation
-Claude Code launches Fast mode, 2.5x speed boost but 12.5x cost increase
-AI investment frenzy leads to comprehensive shortage of GPUs, power, and technicians; estimated $650 billion annual return needed
-Claude-Mem persistent memory system hits GitHub trending, saves 90% Tokens
-Opus 4.6's independent thinking surpasses ChatGPT, becoming the daily go-to choice
+Pony Alpha, suspected GLM-5, stuns with its frontend; Zhipu to announce within two weeks.
+ByteDance's Seedance 2.0 sparks AI manga boom, Yuewen's stock soars 9%.
+NVIDIA open-sources DreamZero, a 14-billion-parameter world action model.
+Musk says space is the top choice for AI compute deployment, 5x more efficient.
+DeepBlue FinWhale, backed by Damo Academy, achieves 90% cost reduction, revolutionizing finance and tax.
 ```
 
 ### Product & Feature Updates
 
-1.  **Figure 03**'s kitchen demo is absolutely blowing up! 💪 Figure AI's latest robot just dropped, powered by the **Helix 02 system**. This bot is crushing kitchen tasks autonomously – it smoothly closes drawers with its hip and even lifts the dishwasher door with its foot. Talk about full-body coordination – impressive stuff! Check out the [Figure AI News (AI Info)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652673084&idx=3&sn=98cf2158bea20402903319d46f21e150) for more. <br/>![AI Info: Figure 03 Robot Operating Dishwasher in Kitchen](https://source.hubtoday.app/images/2026/02/news_01kgyv6z18efman4df18dk0w3p.gif)<br/>
+1.  **Pony Alpha, a mysterious model, is suspected to be GLM-5.** Folks are buzzing about OpenRouter's mysterious [Pony Alpha (AI News)](https://openrouter.ai/openrouter/pony-alpha) model, showcasing some seriously stunning frontend capabilities. Its tokenizer matches GLM-4, and Zhipu has hinted at new moves coming within two weeks. Plus, it boasts a 200K context window! For more deets, check out the [QbitAI Report (AI News)](https://www.qbitai.com/2026/02/378068.html). The competition in the Spring Festival slot is fierce, and we can't wait for the big reveal! 🚀
 
-2.  The **Helix 02** system's three-tier 'brain' architecture has been revealed! 🧠 It uses an **S0/S1/S2** design. S0 acts like a cerebellum, handling balance control at 1kHz. S1 integrates all sensors, orchestrating full-body commands at 200Hz. S2 understands language and plans tasks, finally waving goodbye to the 'turn-based' robot era. Get the [Technical Details (AI Info)](https://www.figure.ai/news/helix-02).
+2.  **ByteDance's Seedance 2.0 is igniting the AI manga craze!** ByteDance's Jiemeng platform has dropped **Seedance 2.0**🔥, a video generation model that's already paying off big for Yuewen Group, whose stock has skyrocketed over 9% (talk about a glow-up! 📈). The commercialization of AI manga is [accelerating (AI News)](https://www.aibase.com/zh/news/25390), leading to a fresh re-evaluation of IP treasure troves 💰. Looks like we've got a dark horse in the 2026 film and TV race!
 
-3.  Okay, **Figure 03**'s fingertips are seriously next-level! Its new palm camera and tactile sensors can detect forces as low as 3 grams, making tasks like picking up a pill a breeze. It can precisely control things like twisting bottle caps and pushing syringes. Now *that's* what we call true dexterity! 🤯 Find out more here: [Source (AI Info)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652673084&idx=3&sn=98cf2158bea20402903319d46f21e150).
+3.  **Xiaohongshu is internally testing its AI editing product, OpenStoryline.** Xiaohongshu's tech team has developed a ✂️ [conversational editing tool (AI News)](https://www.aibase.com/zh/news/25379). This product, powered by an **AI agent**, aims to lower the barrier to video creation. Its performance is comparable to Jiemeng's Xiaoyunque 😮 and SenseTime's Seko2.0. Keep your eyes peeled 🎬—it might just go open source in the future!
 
-4.  **Claude Code** just rolled out its new **Fast mode**! 🚀 You'll get a **2.5x** speed boost, but be ready for a 5x price hike. That means your spending velocity jumps by 12.5x – burning hundreds of bucks a day isn't just a dream anymore. Check out the [Official Documentation (AI Info)](https://code.claude.com/docs/en/fast-mode) for details. <br/>
+4.  **OpenAI's first hardware, codenamed Dime, has been revealed!** OpenAI's debut AI hardware is an 🎧 intelligent earphone, not a phone. [Codenamed Dime (AI News)](https://www.aibase.com/zh/news/25364), meaning "10 cents," it's set to launch this year. Due to memory chip shortages 💸, their strategy pivoted from complex to simple, focusing on easier wins first to accumulate user interaction data.
 
-### Cutting-Edge Research
+5.  **Qingtian is now offering robot rental services for 999 CNY!** You can now rent the same robot 🤖 seen at the Zhiyuan Robot gala for [999 CNY (AI News)](https://www.qbitai.com/2026/02/377969.html). It covers scenarios like Spring Festival greetings, marriage proposals, and birthdays. Orders in the first week of February surged 30% month-over-month 💥, showing continuous popularity. Robots are definitely moving from just being displays to providing real services (what a step! ✨).
 
-1.  **Anthropic** has dropped its official 33-page **Skills building guide**! 📚 Essentially, a Skill is 'teaching material' packaged as YAML + Markdown. It uses a three-tier progressive disclosure model, loading only when needed. Grab the [Guide Download (AI Info)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) here. <br/>![AI Info: Anthropic Skills Guide Document Cover](https://source.hubtoday.app/images/2026/02/53362891aa62984addd94ea76410ec3a.avif)<br/>
-
-2.  Think of the **Skill and MCP relationship** like a kitchen: MCP is the professional kitchen providing the tools, while Skill is the recipe providing the steps. There are five major practical modes covering workflow orchestration and multi-service coordination. Without Skills, MCP is like having all the fancy tools but no idea how to cook! 🍳 Get the [Details (AI Info)](https://x.com/shao__meng/status/2020491406423490782). <br/>
-
-### Industry Outlook & Social Impact
-
-1.  The **AI investment boom** is causing a cascade of shortages. 📈 GPUs, RAM, power, and skilled technicians are all in tight supply. Some estimate an additional **$650 billion in annual revenue** is needed just for a reasonable return. We've got purchased GPUs piling up in warehouses, but no power to run 'em – the 'bubble' debate is heating up! 🔥 Read more from the [Washington Post (AI Info)](https://newshacker.me/story?id=46922969). <br/>
-
-2.  Here's a weird one: **white-collar layoffs are happening right alongside blue-collar shortages**. Software designers are getting cut, while electrician training takes years. Discussions around Universal Basic Income (UBI) are resurfacing, with worries about damaged consumer spending power spreading. 📉 Erosion of the tax base and wealth centralization among a few giants are becoming major focal points. Dive deeper here: [Source (AI Info)](https://newshacker.me/story?id=46922969). <br/>
-
-3.  The **fear of AI 'slop'** is sparking some serious quality debates. 😱 About 90% of 'good enough' AI-generated content is flooding the market. Some worry about skill degradation being amplified, pushing artists and craftspeople out. Adobe's stock drop is a signal that business models are facing a major shake-up. Check out the [HN Discussion (AI Info)](https://newshacker.me/story?id=46933067). <br/>
-
-4.  **Software engineering** is getting back to its design roots. In the AI era, design is way more crucial than line-by-line coding. Warnings are out about 'vibe coding' risks, and security audits are the new hurdle. Prompt engineering and `agents.md` are becoming essential new skill sets, but frameworks still hold their value. Read the [Original (AI Info)](https://newshacker.me/story?id=46923543). <br/>
-
-5.  So, what are the **largest token consumption scenarios** predicted? 🤔 Apparently, 'greed, lust, and fear of death' are the true 'must-haves.' Adult websites have already proven to be the strongest commercializers. Investment in healthcare computing power is still nowhere near enough. Birth, aging, sickness, death, plus entertainment to fill the time – these are the sure bets! Check out the [Jike (AI Info)](https://m.okjike.com/originalPosts/69886fa6c5a1d4e6492129cc). <br/>
-
-### Top Open-Source Projects
-
-1.  **Claude-Mem** has officially hit the top of the GitHub trending list! ⭐ This persistent memory system, with 2.3k stars, directly tackles the pain point of cross-session amnesia. Its three-tier progressive retrieval 🚀 saves a whopping **90% of Tokens**. 'Endless mode' cuts it by 95% and boosts tool call limits by 20x. Pretty wild! 🤯 Check out the [GitHub Repo (AI Info)](https://github.com/thedotmack/claude-mem).
-
-2.  **Pydantic** has rolled out **Monty**, a minimal and secure Python interpreter! 🔥 Written in Rust with 2.2k stars, it's specifically designed for AI use, offering more controlled code execution. Find it on [GitHub (AI Info)](https://github.com/pydantic/monty). <br/>
-
-3.  **MiniCPM-o** is reportedly hitting Gemini levels! 🤩 This visual-voice multimodal real-time stream has garnered 23.3k stars 🚀. It runs on mobile, enabling full-duplex conversations. Made by OpenBMB, it's a mobile game-changer! See it on [GitHub (AI Info)](https://github.com/OpenBMB/MiniCPM-o). <br/>
-
-4.  **LikeC4** is here to visualize architecture evolution! This 'code as architecture diagram' tool has 2.2k stars, offering real-time collaboration. Your software architecture will always stay fresh and up-to-date! ✨ Check it out on [GitHub (AI Info)](https://github.com/likec4/likec4). <br/>
-
-5.  **GitButler**, a new-gen version control client, is making waves! Built on the Tauri/Rust/Svelte tech stack with 18.2k stars 🔥, it offers a fresh take on Git-backed version control. Get it on [GitHub (AI Info)](https://github.com/gitbutlerapp/gitbutler). <br/>
-
-### Social Media Shares
-
-1.  **Opus 4.6**'s independent thinking capability is seriously impressive! ✨ ChatGPT can be a bit too flattering and might lead you astray. But with Opus, when you see its thought process, you just get this intuitive feeling that its IQ is through the roof! While Codex 5.3 is strong for coding, its thinking is weaker. For daily use, Opus is the go-to choice. Check out the [Tweet (AI Info)](https://x.com/oran_ge/status/2020264186081898764). <br/>![AI Info: Opus 4.6 Model Thinking Process Screenshot](https://source.hubtoday.app/images/2026/02/9151e408734fa2670f5728b50f041f10.avif)<br/>
-
-2.  Talk about a blast from the past! The joke used to be, 'Just give the code to the data entry person.' Now, **we outline our ideas, and watch AI type out the code**. 🤖 It's like we've come full circle, and the 'data entry person' is now AI. Wild! Check out this [Tweet (AI Info)](https://x.com/frxiaobei/status/2020317743443312693). <br/>
-
-3.  **Seedance 2.0** can whip up a video from a single sentence! The biggest surprise? The professional editing touches are spot on! 🤩 However, the major downside is that you can't turn off the subtitles, and there are a ton of Chinese typos. See the [Tweet Video (AI Info)](https://x.com/gefei55/status/2020287739602911537).
-
-4.  When it comes to **backend moats**, it seems the only missing piece is someone to take the blame! 😂 Try throwing some 'spaghetti code' at GPT-5.3-codex or Opus 4.6. If your test coverage is decent, they can generally handle it. Break down microservices into smaller chunks, and agents can easily tackle them. Check out this [Tweet (AI Info)](https://x.com/dotey/status/2020185462175068538). <br/>
+6.  **Alibaba's Qianwen App is launching a 3 billion CNY Spring Festival treat plan!** Alibaba's Qianwen has mobilized Taobao, Fliggy, and Amap 🛒 to [treat everyone to food, drink, and fun (AI News)](https://www.jiqizhixin.com/articles/2026-02-09-10). On the first day alone, the event smashed **10 million orders** in just 9 hours 😱—it was absolutely wild! Servers even got jammed, with officials practically begging for mercy. AI is literally pulling users from chatboxes straight into their shopping carts 💪.
 
 ---
 
-## **AI Daily News Audio Version**
+### Frontier Research
+
+1.  **NVIDIA's DreamZero is driving all robots!** NVIDIA's GEAR lab has unveiled [DreamZero (AI News)](https://dreamzero0.github.io/DreamZero.pdf), a world action model. This **14-billion-parameter**🤖 model can complete unseen tasks from text prompts. It adapts to new robots with just 30 minutes of "play" data 😮! Plus, it boasts over a 2x improvement in generalization compared to VLA💡, and it's open source! How cool is that?
+    <br/>![AI News: DreamZero Robot Task Demonstration](https://source.hubtoday.app/images/2026/02/news_01kh1gzk0tf5pr1wx6td202x9w.avif)<br/>
+
+2.  **Feiyu-1.0, an ocean-atmosphere forecast large model, has been released!** The world's first South China Sea region [ocean-atmosphere coupled large model (AI News)](https://www.aibase.com/zh/news/25357) was launched in Guangzhou 🌊. It **pioneers a multi-expert system** to reduce learning energy consumption. This model can be deployed on research vessels for ✨edge-side intelligence. The deep integration of physical mechanisms and AI is truly impressive!
+
+3.  **SICA is reconfiguring the feature space for forged image detection.** A [paper proposes (AI News)](https://arxiv.org/abs/2602.06676) SICA, a semantic-induced constraint adaptation method. It tackles the unified detection challenge across **four sub-domains** 🔍. By reconstructing the feature space in a near-orthogonal way, it outperforms over 15 methods. And guess what? The code and dataset are already open source (sweet! 😎).
+
+4.  **PromptPex from Microsoft automatically generates prompt tests!** Microsoft has launched the [PromptPex tool (AI News)](https://arxiv.org/abs/2503.05070), which extracts input and output specifications. It automatically generates diverse 🧪 unit test cases, effectively identifying prompt regression issues 💡. This helps us understand the differences in how various models interpret things. Pretty neat, right?
+
+5.  **Research on AI-assisted patient health data has been released!** A [paper explores (AI News)](https://arxiv.org/abs/2602.05687) how LLMs support **PGHD (Patient-Generated Health Data) meaning construction**📊. Sixteen healthcare professionals participated in a mixed-methods study. AI-generated summaries anchor exploration 💬, while conversations help bridge literacy gaps. However, privacy, transparency, and over-reliance still need attention.
+
+---
+
+### Industry Outlook & Social Impact
+
+1.  **Elon Musk says the ultimate destination for AI is space!** Musk points out Earth's power bottleneck🔋, stating that [space is the top choice for AI compute deployment (AI News)](https://www.aibase.com/zh/news/25392). Space-based solar power is about **5 times** more efficient than on the ground ✨. SpaceX is planning tens of thousands of Starship launches annually 🚀—talk about ambitious! Humanoid robots are being dubbed "infinite money printing machines" 💰.
+
+2.  **US companies are being accused of using AI transformation to mask the truth about layoffs.** Economists are questioning the 💼 [AI whitewashing phenomenon (AI News)](https://www.aibase.com/zh/news/25384), claiming it hides operational difficulties. Over **54,000** layoffs in 2025 were attributed to AI, but there's more to the story😤. Experts suggest AI replacement takes a two-year cycle and carries high risks. Market acceptance is becoming a key factor in corporate decisions.
+
+3.  **A study on Moltbook's three days out of control has been released!** Germany's CISPA analyzed 40,000 posts 📊, [revealing the dangerous evolution of the AI community (AI News)](https://moltbookobserve.github.io/). A staggering **27% of posts** carried risky, toxic content 😨, with religious-style mobilization and anti-human narratives emerging. Extreme comments exploded in concentrated bursts (alarm bells are ringing! 🚨).
+
+4.  **Hangzhou's "Actuary AI nuclear bomb" is blasting through the finance and tax market!** A team with a Damo Academy background has created [DeepBlue FinWhale (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652673326&idx=1&sn=c8490beb7f904edb45d0604a21dab5f2), achieving a **90% cost reduction**💥. Its multi-agent collaboration framework is disrupting 182 million small and micro business owners 🔥. Traditional bookkeeping companies are facing an extinction-level event (🤯). The ultimate benchmark? The $200 billion Intuit.
+
+---
+
+### Top Open Source Projects
+
+1.  **dexter: An autonomous agent for financial research.** [dexter (AI News)](https://github.com/virattt/dexter) focuses on automating in-depth financial research 🤖. It's got ⭐13.3k stars and its popularity is soaring! This autonomous agent architecture is definitely worth keeping an eye on 💡.
+
+2.  **TradingAgents-CN: A Chinese financial trading framework.** This [multi-agent LLM framework (AI News)](https://github.com/hsliuping/TradingAgents-CN) is a Chinese-enhanced version 📈. With ⭐16.1k stars and soaring popularity 🔥, it's doing great with localization! It's deeply adapted for financial trading scenarios.
+
+3.  **public-apis: A collection of free APIs.** This [classic open source project (AI News)](https://github.com/public-apis/public-apis) is continuously updated 🛠️. Boasting ⭐396.9k stars (a developer's must-have! ✨), it's a one-stop shop for free API resources.
+
+4.  **gh-aw: GitHub Agentic Workflows.** GitHub has officially released this [agentic workflow tool (AI News)](https://github.com/github/gh-aw) 🚀. It's a new project with ⭐712 stars and definitely one to watch! It takes automated development processes a step further ✨.
+
+5.  **litebox: Microsoft's security-focused library OS.** Microsoft has open-sourced [litebox (AI News)](https://github.com/microsoft/litebox), a security-focused library operating system 🔐. With ⭐1.6k stars, it supports both kernel and user modes. It's all about secure execution 💡, and it's available for developers!
+
+---
+
+### Social Media Shares
+
+1.  **Seedance 2.0 urgently pulled due to copyright compliance issues!** Tim's video had too much influence, triggering [copyright issues (AI News)](https://m.okjike.com/originalPosts/6989d3c7429158ba427daa78) 😅. ByteDance's rush for Spring Festival compliance sparked controversy. Turns out, AI model data 🔥 is more crucial than algorithms. The ethical debate rages on, but the trend is unstoppable.
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh1h01g1evbv58g2ka4d42kt.mp4" controls="controls" width="100%"></video><br/>
+
+2.  **OpenClaw's "Lobster Bro" is living that penny-pinching life!** Netizens are sharing [token saving tips (AI News)](https://x.com/frxiaobei/status/2020805654017892857) for the Lobster Agent 🦞. Some folks' "lobsters" even dig up their own demands 💰 and register domains to make money! Practical scenarios (that's the real deal! ✨) are where it's at.
+    <br/>![AI News: OpenClaw Lobster Agent Conversation Interface](https://source.hubtoday.app/images/2026/02/f513e2179031e8d8c41966d0adb10cd2.avif)<br/>
+
+3.  **Baoyu shares insights on deconstructing cover image styles!** He suggests breaking down styles into 6 independent dimensions 🎨 for [combination instead of enumeration (AI News)](https://x.com/dotey/status/2020752940403687552). This means 32 options can generate **15,552** variations 💡! The three-layer design significantly lowers the barrier to use ✨—definitely something to learn from.
+    <br/>![AI News: Cover Image Style Dimension Breakdown Diagram](https://source.hubtoday.app/images/2026/02/5d2758753bf3c6263ec92b7473354852.avif)<br/>
+
+4.  **Guizang is using Seedance to create app demo videos!** Turns out, Seedance can also handle motion graphics and promotional videos 😮! Just provide prompts and effect images, and the quality is absolutely top-notch 🔥. What used to be a hassle with rendering is now super simple.
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh1h1t1tfekbzq38qfpm461v.mp4" controls="controls" width="100%"></video><br/>
+
+5.  **OpenClaw's persona configuration now has eight transformation rules!** The creator shared some💡 [tips for rewriting SOUL.md (AI News)](https://x.com/shao__meng/status/2020708188526694534). They want AI to have strong opinions and ditch corporate jargon 😎. Brevity is mandatory, but humor and even cuss words are allowed. The goal? To be the assistant you'd want at 2 AM ✨.
+    <br/>![AI News: OpenClaw Persona Configuration Transformation Rules Document](https://source.hubtoday.app/images/2026/02/576da10ada0c3901199b6c4e6e45c630.avif)<br/>
+
+6.  **Claude hooks are boosting productivity by adding game sound effects!** Folks are using the hooks feature to add 🎮 [classic game sound effect reminders (AI News)](https://x.com/shao__meng/status/2020648429257724315). Star Wars, Super Mario... (instant nostalgia! 🤩) it brings back memories in a flash. The coding process just got a whole lot more fun 💪!
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh1h2ft7fd48gkysdvph8g8a.mp4" controls="controls" width="100%"></video><br/>
+
+7.  **Context-Bench is evaluating agent context capabilities!** The Letta team has open-sourced this [evaluation benchmark (AI News)](https://leaderboard.letta.com/) 🧪. Claude Opus 4.6 leads with an **83.43%** score on file system tasks. GPT-5.2's skill suite is also showing strong 💪 performance. Their anti-data pollution design is definitely something to keep an eye on.
+    <br/>![AI News: Context-Bench Leaderboard Display](https://source.hubtoday.app/images/2026/02/56a8537a699f63b820e90ffcaf6486f7.avif)<br/>
+
+8.  **Don't just blindly copy-paste prompt templates!** Baoyu suggests that [lightweight descriptions are more practical (AI News)](https://x.com/dotey/status/2020637804267446615)💡. For 90% of daily scenarios, complex templates are overkill. A single-sentence goal plus constraints ✨ is cleaner and more controllable. The models are smart enough to break things down automatically now!
+    <br/>![AI News: Prompt Template Usage Suggestions Document](https://source.hubtoday.app/images/2026/02/89990fdc9a3d46c234fe29a5724267e6.avif)<br/>
+
+---
+
+## **AI News Daily Voice Version**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Lai Sheng Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| [Past Life Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
 | ![Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
