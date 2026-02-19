@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> A decade of code, cold on my fingertips,
-> Yet a fire of ambition in my heart quietly sleeps.
-> Then AI's thunder roars, a new era takes flight,
-> I vow to chase the clouds and join the fight!
+> Ten years of code, my fingers cool, but my heart's turmoil remained unspoken.
+> Then, the AI revolution roared, and I vowed to seize my moment in the sky.
 
 #### My Code Philosophy
 
-> Technology for the people!
+> Tech for the people!
 
-#### Cool Projects I've Built
+#### Featured Projects
 
-*   **📸 [Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: An AI image generation script built on Cloudflare Workers.
-*   **🧠 [Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This content aggregation and generation platform, powered by Cloudflare Workers, curates the latest AI developments daily, including industry news, popular open-source projects, cutting-edge academic papers, and tech influencer social media insights.
-*   Want more? Find all the project details on my [GitHub](https://github.com/justlovemaki)!
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   This is an AI image generation script built on Cloudflare Workers.
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This Cloudflare Workers-powered platform is all about aggregating and generating content. It serves up daily doses of the latest AI buzz, from industry news and hot open-source projects to groundbreaking academic papers and tech thought leader chatter. 🚀
+*   For even more project details, hit up my [GitHub](https://github.com/justlovemaki)!
 
-#### What I'm Diving Into Now
+#### What I'm Exploring Now
 
-I'm super keen on LLM applications and website SEO, totally diving deep into learning and hands-on practice!
+Right now, I'm diving deep into LLM applications and website SEO. Super keen on learning and getting hands-on! 💡

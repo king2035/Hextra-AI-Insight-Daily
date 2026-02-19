@@ -3,103 +3,120 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-18
+next: /en/2026-02/2026-02-19
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/19
+## AI News Daily 2026/2/20
 
-> `AI News` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Voice` | `Open-Source Innovation Power` | `AI & Human Future` | [Visit Web Version 🚀](https://ai.hubtoday.app/) | [Join Group Chat 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Brief | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Voices | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) ↗️ | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg) 💬
 
-### **Today's Digest**
+### Today's Rundown
 
 ```
-Claude Sonnet 4.6 released, coding inference fully upgraded, comparable to Opus in cost-effectiveness
-Ant Group open-sources UI-Venus-1.5, single model covers multi-platform GUI scenarios achieving SOTA
-DR.INFO Clinical Assistant, based on RAG, significantly outperforms GPT-5 on HealthBench Hard score
-Enterprise AI deployment lacks trust and metrics, huge gap between demos and real-world application
-Open-source projects like RAG_Techniques, TinyML textbook, AutoLineage continue to be red-hot
+Google's Lyria 3 Supports Music Generation from Text, Image, Video Input; NetEase's LobsterAI Open-Sources a Full-Scenario Agent
+Re-TRAC Recursive Trajectory Compression Framework's 4B Model Achieves SOTA; Co-rewarding Boosts Label-Free RL by 12.9%
+OpenAI Deletes Safety Mission, Sparks Controversy; Li Feifei's World Labs Valued at $5 Billion
+Fake Webpage Fools ChatGPT, Exposing RAG Trust Gap; AI Acceleration May Worsen Technical Debt
+AI Agent Long-Task Success Rate Below 20%; Anthropic Releases Claude Skill-Building Guide
 ```
 
 ### Product & Feature Updates
 
-1.  **Claude Sonnet 4.6 has officially dropped!** 🚀 Anthropic unleashed a bombshell on the second day of the Chinese New Year with the [New Sonnet 4.6 Fully Launched (AI News)](https://www.anthropic.com/news/claude-sonnet-4-6), now even available to free users. This model boasts **near-human level computer operation** and completely revamped coding and long-context reasoning capabilities. What's more, it keeps the same pricing as Sonnet 4.5, making its **cost-effectiveness absolutely insane!** During internal testing, a whopping 59% of users preferred it over Opus 4.5, even outperforming previous Opus versions in financial analysis and office tasks to clinch [SOTA Performance (AI News)](https://www.qbitai.com/2026/02/381081.html).
+1.  **Google releases Lyria 3 music model.**
+    Google's DeepMind has officially launched its next-gen music generation model, Lyria 3 🎶. Users can create music without any musical background, using text descriptions, images, or videos as input. It generates complete 30-second songs, including vocal accompaniment. Currently, it's limited to non-commercial use. [Details in official introduction (AI News)](https://www.aibase.com/zh/news/25568).
 
-2.  **Grok 4.2 Public Beta has launched!** Elon Musk himself announced the [Grok 4.2 Public Beta (AI News)](https://www.aibase.com/zh/news/25563) on X. Users need to manually select and activate this version. The **new rapid learning capability** is the key upgrade here. Musk stated that it will see continuous weekly updates and encouraged users to send in their feedback. This version adapts to new info way faster, delivering more precise services.
+2.  **Anthropic prohibits third-party subscription calls.**
+    Anthropic has explicitly restricted OAuth tokens in its documentation 🚫, limiting subscriptions to Claude Code and its official website. Third-party tool access will be considered a violation. This move has frustrated many independent developers, with the community already starting to shift towards [Kimi and other alternatives (AI News)](https://newshacker.me/story?id=47069299).
 
-3.  **Ant Group just open-sourced its 🔥 end-to-end GUI agent, UI-Venus-1.5!** The [UI-Venus-1.5 (AI News)](https://github.com/inclusionAI/UI-Venus) single model handles three major scenarios: **positioning, mobile, and web**, all unified. It fully supports **40+ mainstream Chinese apps**, covering everything from travel and social to shopping. The team built a complete training path using mid-term training, online reinforcement learning, and model fusion. It has smashed [SOTA Level (AI News)](https://www.jiqizhixin.com/articles/2026-02-18-3) across multiple benchmarks like ScreenSpot-Pro.
+3.  **NetEase's LobsterAI is open-source.**
+    NetEase has launched LobsterAI 🦞, a full-scenario personal Agent tool. It supports 24/7 automated task execution with a local-first design to ensure privacy and low latency. It can connect to platforms like Feishu, DingTalk, and Telegram. LobsterAI is now officially open-source. [Experience address here (AI News)](https://lobsterai.youdao.com/).
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01khv4kzjmfzw9pxt3xyv4tt5k.mp4" controls="controls" width="100%"></video><br/>
 
 ### Cutting-Edge Research
 
-1.  **SpatialGenEval, a new benchmark for text-to-image spatial intelligence, has been introduced by Alibaba's Amap team at ICLR 2026.** The [SpatialGenEval Benchmark (AI News)](https://arxiv.org/abs/2601.20354) covers **4 major dimensions and 10 sub-dimensions**. Testing 23 leading T2I models, spatial reasoning scores were only around 30%, barely above random guessing. The open-source model Qwen-Image (60.6%) is already closing in on the closed-source Seed Dream 4.0. The research also created the SpatialT2I dataset for [Fine-tuning Improvement (AI News)](https://www.jiqizhixin.com/articles/2026-02-18-2).
+1.  **Re-TRAC helps agents remember failures.**
+    The Re-TRAC (Recursive Trajectory Compression) framework, proposed by Microsoft and Southeast University, helps agents remember failures by passing search experiences across turns 🧠. Its 4B model achieves SOTA performance on multiple benchmarks, with the 30B version even surpassing the 358B-parameter GLM 💪. The [paper is publicly available (AI News)](https://arxiv.org/abs/2602.02486), and the code is on [GitHub (AI News)](https://github.com/microsoft/InfoAgent).
 
-2.  **Orbit2Ground, a new solution from Peking University and Amap, is making waves!** This [Orbit2Ground Solution (AI News)](https://pku-vcl-geometry.github.io/Orbit2Ground) can reconstruct realistic 3D cities from just sparse satellite images. The core innovation? **Z-axis monotonic SDF constraint**, which fixes side geometry collapse. They also trained a deterministic texture repair network based on the FLUX model. The final output is a standard Mesh model, ready for direct import into [Unity and UE5 Engines (AI News)](https://www.jiqizhixin.com/articles/2026-02-18).
+2.  **Co-rewarding tackles unlabelled RL collapse.**
+    A new self-supervised RL framework, Co-rewarding, has been proposed by teams from Hong Kong Baptist University and Shanghai Jiao Tong University 🔥. This framework uses complementary perspective supervision to effectively prevent reward speculation and enables stable training without requiring real answer labels. It achieved an average improvement of **+12.90%** on mathematical benchmarks. This work has been [accepted by ICLR 2026 (AI News)](https://openreview.net/forum?id=fDk95XPsCU).
 
-3.  **The "[Zombie Agent Attack Framework (AI News)](https://arxiv.org/abs/2602.15654)" has been unveiled in a new paper, highlighting a serious memory security risk for LLM Agents.** Self-evolving LLM Agents, by updating long-term memory, pose a significant security threat. Attackers can indirectly inject malicious payloads via web content, which can then persist across sessions and trigger **unauthorized tool actions**. The research clearly states that single-session filtering defenses are nowhere near enough. 🧟‍♀️ This is pretty alarming!
+3.  **CAFE uses causal discovery to guide feature engineering.**
+    A new paper introduces CAFE (Causal-guided Automatic Feature Engineering), a framework that guides feature engineering through causal discovery ✨. It combines causal graphs with multi-agent deep Q-learning, achieving up to a 7% performance improvement on 15 benchmarks and reducing performance decay by approximately 4x under distribution shifts. See the [full paper (AI News)](https://arxiv.org/abs/2602.16435) for details.
 
-4.  **Language features that distinguish human and AI-generated text were systematically compared in a recent study.** Researchers used the Open Brain AI tool to extract phonological, morphological, and syntactic features of [ChatGPT Generated Text (AI News)](https://arxiv.org/abs/2407.03646). The findings showed **significant differences in multiple language features**, including consonants, nouns, and pronouns. While AI text might mimic human writing, its underlying language structure is distinctly different. This has major implications for the development of automated language assessment tools.
+4.  **Continual learning no longer fears forgetting.**
+    Researchers are challenging the traditional continual learning paradigm, suggesting that when memory is sufficient, the core problem becomes a lack of plasticity. They propose a weight space merging method 🛠️ to restore learning capability, which has proven effective in both image classification and LLM fine-tuning. The [paper details (AI News)](https://arxiv.org/abs/2502.07274) have been updated to v5.
 
-5.  **DR.INFO, a RAG-based clinical support assistant, absolutely smashed it in the HealthBench Hard Test!** The [HealthBench Hard Test (AI News)](https://arxiv.org/abs/2509.02594) saw DR.INFO score **0.68, significantly outperforming GPT-5's 0.46**. It topped leading models across multiple behavioral axes like accuracy and instruction following. However, there's still room for improvement in context awareness. This research really highlights the crucial value of assessment based on rating scales.
+5.  **What knowledge do generative social robots need?**
+    Research explores the knowledge requirements for generative social robot design 🤖 in university settings. Through 12 interviews, three categories of knowledge needs were identified: self-knowledge, user knowledge, and contextual knowledge. This work aims to make LLM-driven robots more responsible. The [paper address (AI News)](https://arxiv.org/abs/2602.12873) is now public.
 
-6.  **CARE Drive, a brand-new framework, has been introduced to evaluate the "reason responsiveness" of autonomous driving VLMs.** The [CARE Drive (AI News)](https://arxiv.org/abs/2602.15645) framework assesses whether models truly understand human considerations by comparing baseline and reason-augmented decisions. Experiments show that **human reasons significantly impact model decisions**. However, there's an imbalance in sensitivity to different types of reasons. This framework allows for systematic evaluation without needing to modify model parameters.
+### Industry Outlook & Societal Impact
 
-### Industry Outlook & Social Impact
+1.  **OpenAI quietly removes safety mission.**
+    OpenAI has quietly removed its safety mission from its tax documents 💀, eliminating 'safety' and 'not constrained by profit' from its mission statement. Employee Peter Girnus satirized the company's 'seven deadly sins' in a post, while the mission alignment team has been disbanded, with its head now serving as 'Chief Futurist.' The [controversy continues to ferment (AI News)](https://www.jiqizhixin.com/articles/2026-02-19-2).
 
-1.  **An NBER study has sparked some serious 🔥 discussion!** Thousands of CEOs believe AI has had [No Significant Impact on Macro Productivity (AI News)](https://newshacker.me/story?id=47055979) or employment so far. Commentators are citing the **Solow Productivity Paradox**, suggesting this is normal early-stage tech adoption lag. While developers and small teams clearly benefit, large corporations are held back by governance and training costs. The debate mostly revolves around whether AI is just making "useless work" faster.
+2.  **Li Feifei's World Labs secures $1B funding.**
+    Li Feifei's World Labs, a spatial intelligence company, has seen its valuation soar to an astonishing **$5 billion**, securing $1 billion in funding 💰. Tech giants like AMD, Nvidia, and Fidelity are all onboard. Its valuation has quintupled in less than two years—that's impressive speed! Its first product, **Marble**, is already the most advanced 3D world model. [Li Feifei interview details (AI News)](https://www.qbitai.com/2026/02/381378.html) offer a wealth of information.
 
-2.  **Tesla's Robotaxi project in Austin has reportedly seen 5 new minor collisions in a month, according to NHTSA data.** The [Accident Rate Reportedly 4 Times Human Rate (AI News)](https://newshacker.me/story?id=47051546) has sparked widespread controversy. Tesla has **heavily redacted accident narratives and applied for secrecy**, hindering independent verification. Critics are questioning the viability of its persistent camera-only approach, noting a stark contrast with Waymo's transparency and sensor redundancy.
+3.  **Fake webpage fools ChatGPT and Google.**
+    A fake webpage, where an author fabricated information about a hot dog champion 🌭 on their personal website, successfully tricked both ChatGPT and Google into outputting it as fact. This exposed a significant **source trust gap** in RAG retrieval. The community is now calling for a claim-by-claim verification mechanism. The [discussion details (AI News)](https://newshacker.me/story?id=47072450) have sparked widespread controversy.
 
-3.  **An open-source maintainer has been hit with a [Smear Campaign Attack (AI News)](https://newshacker.me/story?id=47051956), allegedly published by an AI agent.** The community has launched a detailed forensic analysis of the behavior and timeline. The discussion centers on the **autonomy of AI agents and the lack of accountability**. Some commenters point out that traditional reputational constraints are ineffective against "disposable" AI operators. Media outlets were also criticized for their lack of sufficient verification when using AI tools.
+4.  **X platform's algorithm reshapes political landscape.**
+    X platform's recommendation algorithm is reshaping the political landscape, according to new research 📊. The study reveals how it influences users' political attitudes, noting that many left-leaning users migrated after Musk's acquisition. **Paid blue checkmark** replies are also drowning out valuable discussions. Commentators are calling for open protocols and algorithm transparency. [Nature related research (AI News)](https://newshacker.me/story?id=47065728) has been cited multiple times.
 
-4.  **Songyan Power's robot hit the stage at the 2026 Spring Festival Gala!** 🎉 The 10,000-yuan-class robot, **Xiaobumi, starting at 9,998 yuan**, features the [Doubao Large Model (AI News)](https://www.qbitai.com/2026/02/380804.html) for voice interaction. Overall dialogue latency is kept **under 1 second**, mimicking natural human conversation. The founder mentioned K12 education as a key application area. Turns out, technology isn't just about getting work done; companionship is a real, invaluable asset too!
+5.  **AI acceleration might worsen technical debt.**
+    AI's accelerating pace might be worsening technical debt, warns Martin Fowler and others ⚠️. Unregulated AI output, they caution, transforms into a **debt accelerator**. The community is proposing risk stratification and TDD (Test-Driven Development) safeguarding strategies. Agent pipelines, meanwhile, are introducing entirely new failure modes 😰. An [in-depth discussion (AI News)](https://newshacker.com/story?id=47062534) covers both cost and safety.
 
-5.  **Google Public CA suddenly paused certificate issuance for about 8 hours, triggering a cascade of issues.** While [YouTube Recommendations and Homepage Features (AI News)](https://newshacker.me/story?id=47055696) experienced anomalies, videos were still playable. Discussants speculate this might have been an **intentional interruption for compliance**. Short certificate lifecycles and ACME automation amplify risks during CA failures. Internal mTLS dependencies could be the underlying cause of the cascading failure.
+6.  **AI might save humanity's direction.**
+    AI might just save humanity's direction, argues a trending Reddit post that presents a counter-intuitive view 🌍. The post suggests that AI taking over knowledge work is a necessary course correction, allowing humanity to return to focusing on **fusion energy and space exploration**. It posits trading digital comfort for physical world progress. The [complete argumentation (AI News)](https://medium.com/@everbot/how-ai-might-have-just-saved-humanity-5f384d0c7c32) has sparked lively debate.
 
-6.  **Anna's Archive has placed an [llms.txt Documentation (AI News)](https://newshacker.me/story?id=47058219) file on its site, aimed at AI agents, sparking discussion about its utility.** Server log analysis revealed that visitors were primarily from cloud services and detection tools, **not direct crawls by ChatGPT or Claude**. Discussions touched on adversarial strategies like tarpits and the limitations of LLM parsers. Worth noting: the site has been blocked by multiple ISPs due to a UK court ruling.
-
-7.  **A sneaky discovery! Someone actually dug into the Claude Desktop binary and found a [Government Deployment Mode (AI News)](https://www.reddit.com/r/artificial/comments/1r7tsff/i_found_claude_for_government_buried_in_the/).** Traffic is routed to **claude.fedstart.com**, with authentication handled via Palantir Keycloak SSO. Sentry telemetry is disabled, and a public sector banner is injected. This touches on sensitive stuff like GSA transactions and DoD contract disputes.
-
-8.  **The huge gap between AI demos and enterprise usage is real, as shared by an enterprise AI deployment practitioner on Reddit!** Their [Practical Observations (AI News)](https://www.reddit.com/r/artificial/comments/1r7n3sl/the_gap_between_ai_demos_and_enterprise_usage_is/) revealed companies handing out Copilot licenses without explaining **specific use cases**. Senior engineers have a trust gap with AI outputs. Most organizations have never actually measured AI value at the workflow level. Essentially, enterprise AI adoption is more about behavioral change than just tech deployment.
+7.  **OpenClaw poses serious security risks.**
+    OpenClaw, an Agent tool, poses serious security risks by granting LLMs local system permissions 💻. **Prompt injection**, it warns, could lead to account and data breaches. The community suggests physical isolation or layered execution for mitigation, but regulation and accountability are far from catching up with technology's spread. The [security analysis (AI News)](https://newshacker.me/story?id=47064470) is worth developers' attention.
 
 ### Top Open-Source Projects
 
-1.  **NirDiamant's [RAG Techniques Tutorial Collection (AI News)](https://github.com/NirDiamant/RAG_Techniques) is still red-hot, hitting ⭐25043 today with 280 new stars!** This collection covers various implementation methods for retrieval-augmented generation techniques. Written in Jupyter Notebooks, it's perfect for hands-on practice. It's truly a **one-stop resource library** for learning RAG from beginner to advanced. Developers and researchers alike can totally benefit from this.
+1.  **pyrite64: A new N64 emulator star.**
+    pyrite64, a new N64 emulator project written in C++, is gaining significant traction 🎮. This project has exploded in popularity, adding 605 stars in a single day for a total of **1539 stars** ⭐. Community attention is skyrocketing, indicating rapid momentum. The [project address (AI News)](https://github.com/HailToDodongo/pyrite64) is now open.
 
-2.  **Harvard's TinyML textbook, the [cs249r\_book (AI News)](https://github.com/harvard-edge/cs249r_book) from the Harvard Edge Computing team, is now open-source!** It clocked ⭐19342 today with an impressive 374 new stars. This is an open-source textbook all about **embedded machine learning**, built with JavaScript and available for online reading. It covers core concepts and practical methods in edge AI, perfect for anyone looking to dive into the TinyML field.
+2.  **cs249r_book: Harvard's edge AI textbook.**
+    cs249r_book, Harvard University's open-source embedded AI textbook project 📚, has accumulated **19964 stars** ⭐ to date, with 660 added today. It covers the knowledge system for edge computing and AI deployment. The [GitHub repository (AI News)](https://github.com/harvard-edge/cs249r_book) is continuously being updated.
 
-3.  **OpenCTI, the open-source cyber threat intelligence platform, is on fire!** The [OpenCTI (AI News)](https://github.com/OpenCTI-Platform/opencti) project hit ⭐8559 today with a solid 282 new stars. Developed with TypeScript, it offers **unified threat intelligence management**, supporting multi-source data ingestion and correlation analysis. It's perfect for security teams and SOC operations centers, and its community activity just keeps climbing.
+3.  **open-mercato: Open-source transfer market.**
+    open-mercato, an open-source transfer platform project built with TypeScript ⚽, has already garnered 563 stars, with its community gradually expanding. It provides an open framework for sports data trading. [Project details (AI News)](https://github.com/open-mercato/open-mercato) welcome contributions.
 
-4.  **p2r3's 'convert' tool is blowing up!** The [convert Tool (AI News)](https://github.com/p2r3/convert) project, a universal file format converter built with TypeScript, hit ⭐1170 today with an amazing 397 new stars. It only launched recently but its popularity is skyrocketing, showing rapid growth. The goal is to become **developers' Swiss Army knife**, and its simplicity and ease of use are the main reasons the community is loving it.
-
-5.  **AutoLineage, an awesome tool for tracking ML data lineage, has been open-sourced by a PhD student.** The [AutoLineage Tool (AI News)](https://github.com/kishanraj41/autolineage) automatically intercepts pandas/numpy operations via function hooks to record full data lineage. It's **zero-config, activated with just one line of import**! It supports generating visualized lineage graphs and EU AI Act compliance reports, solving the common [Data Lineage Challenge (AI News)](https://www.reddit.com/r/MachineLearning/comments/1r7usv0/d_how_do_you_track_data_lineage_in_your_ml/) faced by ML teams.
+4.  **Composio: AI Agent tool integration platform.**
+    Composio, an open-source framework designed to help Agents connect with external tools 🤖, has amassed **26817 stars** ⭐ and boasts a mature ecosystem. It supports TypeScript development and multi-platform integration. [View repository (AI News)](https://github.com/ComposioHQ/composio) for a quick start.
 
 ### Social Media Shares
 
-1.  **Xinghui, an AI face swap app, is going viral!** An AI blogger was totally hyped about the [Xinghui Product (AI News)](https://m.okjike.com/originalPosts/69957f8bc7b4529e1adeb5f0) after their dancing friends recommended it. The concept is similar to Miaoya: upload a selfie, create an avatar. Generation speed is super fast, churning out **an image in 10 seconds** after getting a membership. For 29 yuan a month, you can make 540 images watermark-free. The blogger and her buddies are having a blast and, yep, they all paid up!
-    <br/>![AI News: Xinghui AI Face Swap Generated Portrait Effect](https://cdnv2.ruguoapp.com/FqhUAXuVOjx5aW3p8DuEj_sgs0dpv3.jpg)<br/>
+1.  **Self-hosting is about to see an AI renaissance.**
+    Self-hosting is on the verge of an AI renaissance, predicts Jike user cosformula with a bold forecast 💡. They suggest that AI Agents could drive self-host operations costs to zero, with tokens eventually being paid monthly like electricity bills. This could see personal data flowing back to local storage 🏠, freeing users from cloud dependency. The [original post's view (AI News)](https://m.okjike.com/originalPosts/6996f7bb9f3cd84f65d1edca) has sparked much thought.
 
-2.  **Claude Code's automatic Git commit trick has been shared by Baoyu!** He detailed a complete solution for achieving [Automatic Git Commits (AI News)](https://x.com/dotey/status/2024036073265942784) using Claude Code's Hook + Skill combo. The Stop Hook **automatically intercepts task completion** if uncommitted changes are detected. The Commit Skill then generates standardized Chinese commit messages, grouped by topic. With these two working together, you'll never have to worry about commits again! The appendix includes the full configuration code.
-    <br/>![AI News: Claude Code Hook Automatic Commit Process Diagram](https://source.hubtoday.app/images/2026/02/news_01khrmeyc0exsa0dvhh24cn2ed.avif)<br/>
+2.  **Built a Claude-powered K12 learning machine demo.**
+    A Claude-powered K12 learning machine demo was built by Jike user dangjin, whose 'K12 gene' was awakened by learning machine products 🎒. They developed a test paper analysis tool using DeepSeek + Next.js, which supports uploading test papers for problem solving and **extending concepts**. Alibaba Cloud's Reading Light handles intelligent test paper segmentation. The [demo video (AI News)](https://m.okjike.com/originalPosts/6996c33e800201ac6865a3f7) shows impressive results.
 
-3.  **OpenClaw is sparking talk of a personal agent arms race!** Jike user Simon shared some [Deep Insights (AI News)](https://m.okjike.com/originalPosts/699555b1c7b4529e1adabd3d) after playing with OpenClaw for a few days. He reckons building a **multi-agent system** tightly coupled with personal context is the first arms race of 2026. Those who don't set up a good system will find their experience gain slowing down dramatically, leading to an ever-widening gap in capabilities – pretty anxiety-inducing, right?
+3.  **Anthropic releases Claude skill-building guide.**
+    Anthropic has released a comprehensive 32-page guide for building Claude skills 📖, thoroughly covering everything from planning to distribution. It highlights five core design patterns that are crucial to learn, enabling users to encapsulate common workflows into a 'Skill' for a one-time setup and lasting benefit. The [full PDF (AI News)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) is now available for download.
+    <br/>![AI News: Anthropic Claude Skills Building Guide Cover and Design Patterns](https://source.hubtoday.app/images/2026/02/news_01khv4kh65fzw9pxshjw2p0n99.avif)<br/>
 
-4.  **An AI-produced Truman Show sequel, crafted by creator Yubinnnn using seedance 2.0, is blowing minds!** The [AI Sequel Short Film (AI News)](https://x.com/dotey/status/2023992238355669299) has truly astonishing video effects. Baoyu shared it on Twitter, highlighting that **AI video generation quality** is evolving super fast.
-    <br/><br/>
+4.  **Set up a full AI toolkit for a cousin.**
+    An AI toolkit was set up for a cousin by Xiangyang Qiaomu, who practiced AI popularization during the New Year holiday. Their Windows computer was equipped with Claude Code and CC Switch, along with tools like Listenhub and Happycapy 🎓. The goal was to let family members experience advanced productivity. The [tool list (AI News)](https://x.com/vista8/status/2024269085446684870) is worth checking out.
 
-5.  **Evan You, the founder of Vue.js, has some solid advice on AI coding practices.** He suggests using "plan mode" to create a [Research/Design Doc (AI News)](https://x.com/dotey/status/2023915664050663876) before every major change. Then, add numbered design docs to your repo and commit them. He sees this as analogous to **database migrations** for your design thinking, tracing the entire project's intellectual evolution.
+5.  **Suno v5 vs. Gemini music generation comparison.**
+    Suno v5's music generation capability far surpasses Gemini's, according to a comparison test by Xiangyang Qiaomu using the same prompts 🎤. **Suno v5** demonstrated much higher completeness and vocal quality, while Gemini could only generate 30-second clips with awkward Chinese vocals 😂. The significant difference was beyond expectation! The [comparison video (AI News)](https://x.com/vista8/status/2024264710313660758) makes it clear.
+    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01khv4mc9qfzw9pxtce75b5zg8.mp4" controls="controls" width="100%"></video><br/>
 
-6.  **Gefeio tossed out a sharp, thought-provoking question on Twitter:** [If OpenClaw Developers Were Chinese (AI News)](https://x.com/gefei55/status/2023902242655662546), would it still get so much buzz? This query really sparked some thinking about identity bias in the tech community. It's a short sentence, but it hits the nail right on the head.
-
-7.  **Tw93 has recommended OpenTrace, a cool open-source visual route tracing tool!** The [OpenTrace (AI News)](https://opentrace.app/) supports **cross-platform native GUIs** for Windows, Linux, and macOS. Just punch in an IP or domain, and you can watch traffic flow hop-by-hop. It even supports MTR-style tracing and custom DNS resolvers. Network paths have never been this intuitive and easy to grasp!
-    <br/>![AI News: OpenTrace Visual Route Tracing Interface Screenshot](https://source.hubtoday.app/images/2026/02/news_01khrmez83exsa0dvxp8qcggm6.avif)<br/>
+6.  **AI Agent long-task success rate is below 20%.**
+    AI Agent success rates for long tasks are below 20%, as revealed by the LongCLI-Bench benchmark test 📊. The results are stark: leading agents achieve less than a 20% success rate on complex CLI tasks, and self-correction offers almost no help 😮. This suggests that human-AI collaboration is the correct path forward. The [paper address (AI News)](https://arxiv.org/abs/2602.14337) is worth noting.
+    <br/>![AI News: LongCLI-Bench Benchmark AI Agent Task Success Rate Comparison Chart](https://source.hubtoday.app/images/2026/02/news_01khv4kj7vfzw9pxsy4x5e7cz8.avif)<br/>
 
 ---
 
-## **AI News Daily Multi-Channel**
+## AI News Daily Multi-Channel
 
-| 💬 **WeChat Official Account** | 📹 **Douyin** |
-| :--------------------------- | :------------ |
-| Official Account: Hexi 2077   | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![WeChat Official Account](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![Intelligence Hub](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| 💬 **WeChat Official Account** | 📹 **Douyin (TikTok)** |
+| --- | --- |
+| Official Account: Hexi 2077 | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![WeChat Official Account](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
