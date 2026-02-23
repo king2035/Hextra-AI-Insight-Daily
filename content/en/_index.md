@@ -3,117 +3,124 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-21
+next: /en/2026-02/2026-02-22
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/22
+## AI Daily News 2026/2/23
 
-> AI News | Daily Briefing | Aggregated Web Data | Frontier Science Exploration | Industry Free Speech | Open Source Innovation Power | AI and Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Free Speech` | `Open Source Innovation Power` | `AI and Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### Today's Rundown
+### **Today's Lowdown**
 
 ```
-Pika launches digital twins, Replit upgrades to Gemini 3.1, Qwen3-Coder-Next API goes live
-Claude Code desktop adds server preview, code review, PR auto-fix, and more
-Taalas releases HC1 chip with 10x faster inference than Cerebras, models directly etched into silicon
-S2Q multi-agent retains alternative strategies, MolmoSpaces builds 230k indoor environment robot benchmarks
-AI customer service satisfaction drops, community reflects on code cognitive debt and proliferation of low-cost projects
+Alibaba Cloud Coding Plan supports Qwen3.5 for 7.9 yuan first month; Anthropic releases Claude skill creation guide.
+BridgeV2W predicts robot scenes from motion silhouettes; GUI-Owl-1.5 smashes 20 benchmarks; OpenSage enables Agent self-programming.
+Google exec warns LLM wrappers and AI aggregators face tough survival; Taalas chip hardens weights to 17000 tokens/s.
+GitNexus browser generates code knowledge graphs; OpenBB open-source financial platform ⭐60.7k continues to top charts.
+OpenClaw gains traction but is far from product-ready; community debates the irreplaceable core principles and product intuition in the AI era.
 ```
 
 ### Product & Feature Updates
 
-1.  **Pika launches AI Selves digital twins.**
-    Pika's expanding beyond just videos, now💡 crafting "your second self." Users can upload a selfie and record some audio, and *boom*— [a digital twin is instantly born (AI News)](https://www.jiqizhixin.com/articles/2026-02-21-4)! This twin boasts🔥**persistent memory and personality**, even remembering your peanut allergy (talk about attention to detail! 🤯). It can post, make calls, and stay active across various platforms for you. Currently, it's invite-only, so you'll need an invite code to get in on the action.
+1.  **Alibaba Cloud Coding Plan Drops New Goodies.**
+    Alibaba Cloud just dropped a **major update** to its developer package! 🚀 It now rocks support for **Qwen3.5** and GLM-4.7. Get this: the first month's trial is only a killer deal at 💡**7.9 RMB**! The [Plan Details Page (AI News)](https://www.jiqizhixin.com/articles/2026-02-22) is live, so you can easily dive into building awesome **AI Agent** development tools.
+2.  **Anthropic Unveils Skill Creation Guide.**
+    Anthropic has officially rolled out a 🔥**30-page comprehensive PPT guide**. It's a step-by-step masterclass on how to build skills for **Claude**. You can [download the full guide (AI News)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf) right now! Developers finally have an official reference, and the barrier to building **custom capabilities** 💡 has been significantly lowered.
 
-2.  **Replit Design Mode gets a massive upgrade.**
-    Replit's Design Mode just got a massive upgrade! 🚀 The platform announced a complete overhaul, now powered by **Gemini 3.1** under the hood. Expect [sharper visuals and a smarter layout (AI News)](https://x.com/Replit/status/2024908080920887802). The official word? "Better taste too!" 😉 This means a seriously boosted experience for frontend developers.
+### Cutting-Edge Research
 
-3.  **Qwen3-Coder-Next API officially goes live.**
-    The Qwen3-Coder-Next API is officially live! After Alibaba's Tongyi Qianwen open-sourced Qwen3-Coder-Next, its [API is now available on Alibaba Cloud (AI News)](https://x.com/Alibaba_Qwen/status/2024877243072147689). It's also integrated into the💡**Coding Plan** solution. Dev teams can flexibly call the API, making it perfect for scenarios that demand🔥scalable endpoints. The official team is keen to hear your feedback!
+1.  **BridgeV2W Lets Robots Rehearse the Future.**
+    The Chinese Academy of Sciences team just dropped the 🚀**BridgeV2W** framework. This bad boy can generate predictive visuals solely from **motion silhouettes**! And get this, it seamlessly adapts to various robots. The [project website (AI News)](https://bridgev2w.github.io/) shows off some jaw-dropping results. 🤯 The related [paper (AI News)](https://arxiv.org/pdf/2602.03793) is already public.
 
-4.  **Claude Code Desktop gets four major updates.**
-    Claude Code Desktop just dropped four major updates! Anthropic has beefed up the desktop version with a🚀**server preview** feature, letting you see changes directly in the interface. They've also added local code review, so you can [get inline suggestions even before pushing (AI News)](https://x.com/shao__meng/status/2025018483210440984). PR monitoring now supports💡auto-fixes and auto-merges. Plus, conversations are fully cross-device, meaning seamless switching from CLI to desktop to mobile. Smooth sailing! ✨
+2.  **Alibaba's GUI-Owl-1.5 Dominates Benchmarks.**
+    Alibaba has unleashed 🔥**GUI-Owl-1.5**, a cross-platform **GUI Agent** model! It comes in various sizes, with parameters ranging from **2B to 235B**. This thing handles everything—phones, PCs, browsers—you name it! It absolutely *smashed* **20 GUI benchmarks**, setting new records. 🏆 The code is already open source on [GitHub (AI News)](https://github.com/X-PLUG/MobileAgent) with ⭐6.8k stars. ✨
 
-### Frontier Research
+3.  **3D Shape Perception Model First to Surpass Humans.**
+    The Berkeley team has just used 🚀**multi-view learning** to blow past perception limits with their 3D shape perception model! This model matches human accuracy without any specialized training. Get this: its reaction time distribution is uncannily consistent with 💡human performance. This is a crucial milestone on the road to **visual intelligence**! 🧠 You can check out the [paper details (AI News)](https://arxiv.org/abs/2602.17650), which are already public.
 
-1.  **S2Q teaches multi-agents to retain alternative strategies.**
-    S2Q teaches multi-agents to keep alternative strategies handy. In multi-agent reinforcement learning, **value decomposition** methods often get stuck in sub-optimal strategies. A new paper introduces🔥Successive Sub-value Q-learning, which learns multiple sub-value functions to retain high-value alternative actions. This approach, based on Softmax behavior policy, encourages💡continuous exploration, allowing agents to [rapidly adapt to changing optimal solutions (AI News)](https://arxiv.org/abs/2602.17062). Experiments show S2Q consistently outperforms others across multiple benchmarks. Impressive! 👏
+4.  **OpenSage Enables Agent Self-Programming.**
+    [OpenSage (AI News)](https://arxiv.org/abs/2602.16891) is letting large models 🚀 program themselves! It builds topological structures using **hierarchical graph memory**. Kiss manual tuning goodbye because efficiency 💡 just straight-up *doubled*! Its performance outshines existing **Agent suite** frameworks. [Check out the full paper (AI News)](https://arxiv.org/abs/2602.16891) for all the juicy details.
 
-2.  **MolmoSpaces builds a massive robot benchmark ecosystem.**
-    MolmoSpaces is building a massive robot benchmark ecosystem! A new paper unveils🚀**over 230,000 indoor environments** and 130,000 labeled object assets. This supports various simulators like MuJoCo and Isaac, [covering all navigation and manipulation tasks (AI News)](https://arxiv.org/abs/2602.11337). The sim-to-real correlation hits an impressive💡**R=0.96**. It's basically providing a scalable data and training foundation for robot learning research. Sweet! 😎
+### Industry Outlook & Social Impact
 
-3.  **M-Attack-V2 smashes black-box visual large models.**
-    M-Attack-V2 is smashing black-box visual large models! Addressing the challenge of black-box attacks on large vision-language models, researchers proposed🔥multi-crop alignment and auxiliary target alignment strategies. This boosted the attack success rate on Claude-4.0 from 8% to a whopping **30%**, and for [GPT-5, it even hit 100% (AI News)](https://arxiv.org/abs/2602.17645)! The method boasts a modular design💡, allowing for flexible stacking. And guess what? The code is already open-source! 🎉
+1.  **Google Exec Warns Against Two Types of AI Startups.**
+    Google Cloud VP **Darren Mowry** just dropped a 🔥warning! He says **LLM wrapper** companies are already flashing engine failure lights. This [detailed report (AI News)](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/) is a must-read. **AI aggregators** are also 💡lacking growth prospects. Mowry is actually more bullish on **ambient computing** and developer platforms.
+2.  **Stripe Minions Spark Open-Source Ethics Debate.**
+    Stripe has unveiled its internal code Agent system, 🔥**Minions**. The catch? It's built on the open-source project **goose** but hasn't contributed back upstream. This system generates thousands of AI-powered PRs each week, all reviewed by humans. A [fierce community discussion (AI News)](https://newshacker.me/story?id=47110495) is heating up 💬, and concerns about engineers 💡being reduced to review roles are deeply unsettling. 😬
 
-### Industry Outlook & Societal Impact
+3.  **Altman's Energy Consumption Analogy Sparks Outrage.**
+    Altman's claim that training humans 🔥requires **20 years** of food has ignited outrage! 😡 This statement is being interpreted as devaluing 💡inherent human worth. The community is fiercely debating the **post-labor society** 🗣️, with the [original post discussion (AI News)](https://newshacker.me/story?id=47112633) showing intense emotions. Energy consumption math and the employment crisis are now the central focus.
 
-1.  **Taalas' 24-person team directly challenges NVIDIA with new chip.**
-    Taalas' 24-person team is directly challenging NVIDIA with their new chip! Founded by a dream team of former AMD executives, Taalas has unveiled its🔥**HC1 chip**, boasting a peak inference speed of 17,000 tokens per second. That's **10 times faster** than Cerebras, and it [costs only one-twentieth as much (AI News)](https://www.qbitai.com/2026/02/381552.html)! The core idea is to directly💡etch the model into the silicon – essentially, the chip *is* the model. However, this "hardcoding" has sparked debate about obsolescence, leading to (as expected) mixed reviews online. 😬
+4.  **Altman Slams Space Data Centers.**
+    Altman is calling Musk's 🚀space vision absolutely absurd. 😂 He argues that **launch costs** and maintenance are insurmountable hurdles. Yet, Musk is busy recruiting for **xAI** to build 💡satellite constellations! This [detailed report (AI News)](https://www.aibase.com/zh/news/25576) is definitely worth a look. The battle for **interstellar computing power** ⚔️ among tech giants has officially begun.
 
-2.  **Karpathy stirs controversy over "Claws" resident AI agents.**
-    Karpathy is stirring up debate about "Claws" – resident AI agents. He introduced the concept of "Claw," which are🔥**resident, schedulable AI agents** designed to run long-term, triggered by schedules or events. The community is fiercely debating: Is it safe to hand over your passwords to a Claw? 😬 [Container sandboxes can't fundamentally eliminate risks (AI News)](https://newshacker.me/story?id=47099160), critics argue. Self-hosting is seen as a💡viable but high-cost solution. Even the name and commercialization strategy have drawn some cultural snark.
+5.  **ByteDance & Baidu Race for AI Talent in the US.**
+    ByteDance is on a 🔥frenzied hiring spree for its AI team in California. Baidu is simultaneously battling to snap up 💡top-tier talent across the US! A [source report (AI News)](https://www.aibase.com/zh/news/25582) has spilled the beans on salary details. 💰 MiniMax is also secretly poaching core experts. The overseas **AI competitiveness** war 🚀 has officially kicked off!
 
-3.  **Anthropic's Opus 4.6 vulnerability detection sparks controversy.**
-    Anthropic's Opus 4.6 vulnerability detection is causing a stir. Anthropic claims Opus 4.6 uncovered about🔥**500 high-severity vulnerabilities**, vastly outstripping Google BigSleep's 20. The community is questioning the false positive rate and the definition of "high-severity," [demanding disclosure of the cost/vuln confusion matrix (AI News)](https://newshacker.me/story?id=47091469). Others worry that💡low-barrier scanning might be abused to uncover open-source 0-days. The virtual security engineer route, however, seems to be a pragmatic consensus. 🛡️
+6.  **7000 Robot Vacuums Accidentally Hijacked.**
+    Researchers just used AI to reverse-engineer and 🔥uncover a universal **default credential** for robot vacuums! 😱 This theoretically allows access to the cameras of **7000 devices** – totally shocking! 🤯 The [event details (AI News)](https://newshacker.me/story?id=47111400) are mind-blowing. The community is now suggesting replacing the firmware with 💡open-source **valetudo**. This vendor security negligence is sparking calls for legal accountability. ⚖️
 
-4.  **Proliferation of AI side projects makes the community reflect.**
-    The proliferation of AI side projects is making the community reflect. "Just write a prompt and get on Show HN" has become the💡new normal, with a flood of low-effort AI projects drowning out quality work. [The community is calling for adjustments to curation mechanisms (AI News)](https://newshacker.me/story?id=47094637), with some suggesting a requirement to showcase🔥**workload and technical details**. However, others argue that AI lowers the barrier, empowering more people to build projects. Still, architectural risks and cognitive debt are factors that can't be ignored. 🤔
+7.  **AI Products Become "Digital New Year Goods" During Spring Festival.**
+    **AI large model** applications absolutely crushed it during the Spring Festival, soaring past ten billion uses! 🚀 Get this: the **Gen Z (Post-00s)** generation is becoming the 💡main consumer force. The [full report (AI News)](https://www.aibase.com/zh/news/25586) shows some seriously impressive numbers. ✨ Drones and robots sold out completely. These tech "hacks" made the New Year celebrations even more 🔥**flavorful**!
 
-5.  **AI insider trading in prediction markets sparks ethical debates.**
-    AI insider trading in prediction markets is sparking ethical debates. Someone is using AI on Polymarket to🔥identify insider trading and gain alpha. Supporters argue that insider bets can💡improve prediction accuracy, but [opponents frankly state that bribing employees for information is illegal (AI News)](https://newshacker.me/story?id=47091557). While on-chain transactions are traceable, the advantage of copy trading can quickly be nullified by competition. Most ordinary users participate more out of a gambling mindset. 💸
+8.  **Taalas Embeds Model Weights Directly into Chips.**
+    AI chip company **Taalas**, with only 20 employees, has raised over 💡**$200 million**! Their first product, **HC1**, hardens model weights using Mask ROM. A single chip boasts an output of 🔥**17,000 tokens/s**, totally crushing Groq! 💥 The [original post discussion (AI News)](https://x.com/frxiaobei/status/2025572194231939521) has sparked intense debate. If models standardize, dedicated chips 🚀 could totally explode! 🤯
 
-6.  **Big tech AI products lose users quickly after massive investments.**
-    Big tech AI products are seeing rapid user churn after massive investments. A major company's AI product poured💡billions into model training, marketing, and handing out red packets. On Chinese New Year's Eve, user numbers hit an🔥**all-time high**. Unfortunately, half were gone the next day 📉, and another half vanished the day after that. This [short-term profit-driven approach often leads to new teams inheriting the mess (AI News)](https://m.okjike.com/originalPosts/699951ba60141db294585cb0), prompting deep reflection in the industry about long-term retention.
+### Top Open-Source Projects
 
-7.  **The truth behind declining AI customer service satisfaction.**
-    The truth behind declining AI customer service satisfaction is out. Many companies have implemented AI customer service, leading to [customers feeling like they're being brushed off (AI News)](https://x.com/dotey/status/2025003573004681524). The right approach, it turns out, is to💡keep human agents on the front lines, backed by AI assistance. Customers don't just need🔥**professional answers**; they also need emotional support. 💖 AI should be a tool for human customer service, not a replacement.
+1.  **GitNexus: Zero-Server Code Knowledge Graphs.**
+    [GitNexus (AI News)](https://github.com/abhigyanpatwari/GitNexus), sporting ⭐1.3k stars, runs 🚀purely in your browser! Import a repo, and BAM—it generates an 💡interactive knowledge graph. 📊 It’s got a super powerful built-in **Graph RAG** smart agent. No backend server needed, 🔥it runs locally and is super secure! 🔒 Code exploration just got ridiculously simple and efficient. ✅
+2.  **OpenBB: The Open-Source Financial Data Platform.**
+    [OpenBB (AI News)](https://github.com/OpenBB-finance/OpenBB), with its massive ⭐60.7k stars, is 🔥still dominating the charts! 🏆 It’s specifically crafted for quant analysts and 💡**AI Agents**. This platform integrates tons of financial data, giving you one-stop access. 🎯 Its Python ecosystem 🚀 offers super convenient, seamless integration. The barrier to professional-grade **financial analysis** just got seriously lowered. 👇
 
-### Top Open Source Projects
+3.  **Claude Code Telegram: Remote Control at Your Fingertips.**
+    [claude-code-telegram (AI News)](https://github.com/RichardAtCT/claude-code-telegram), rocking ⭐1.4k stars, is out! Now you can remotely control 🚀**Claude Code** via Telegram. It even supports **persistent sessions**, so you can pick up where you left off anytime. You can handle complex coding tasks right from your phone 💡! Developers get a massive boost in remote ops flexibility. ✨
 
-1.  **PentAGI security penetration agent explodes in popularity.**
-    PentAGI, the security penetration agent, is exploding in popularity! This🔥AI penetration testing tool, written in Go, added ⭐2107 stars today, bringing its [total stars to 4909 (AI News)](https://github.com/vxcontrol/pentagi). The project's mission?💡Automated security assessment. The open-source community is absolutely loving it 🎉, with 648 forks already!
-
-2.  **FossFLOW open-source workflow engine continues to be a hot topic.**
-    FossFLOW, the open-source workflow engine, continues to be a hot topic! Written in TypeScript, FossFLOW has [accumulated ⭐17634 stars (AI News)](https://github.com/stan-smith/FossFLOW), with an additional💡101 stars today. This project is all about🔥**open-source workflow orchestration**. It's already surpassed 1151 forks, and its ecosystem is constantly expanding! 🌱
-
-3.  **GitNexus code management tool sees rapid growth.**
-    GitNexus, a code management tool, is seeing rapid growth! GitNexus is a TypeScript-developed💡Git enhancement tool that [added 133 stars today, reaching ⭐888 (AI News)](https://github.com/abhigyanpatwari/GitNexus). The project focuses on🔥pain points in multi-repository management. With 82 forks, it's definitely in its early, fast-growth phase! 🚀
-
-4.  **Hiddify cross-platform proxy tool is a stable chart-topper.**
-    Hiddify, the cross-platform proxy tool, is a stable chart-topper! Developed in Dart, Hiddify boasts [a total of ⭐26271 stars (AI News)](https://github.com/hiddify/hiddify-app), with an additional💡121 stars today. It supports multi-platform🔥**network proxy** functionalities. With 2271 forks, it's easily one of the most popular open-source projects in its category. Keep it up! 💪
+4.  **Stremio Web Version Officially Goes Open Source.**
+    [Stremio Web (AI News)](https://github.com/Stremio/stremio-web), with ⭐9.6k stars, is now live! No downloads needed—just smooth streaming right in your browser 🔥. 📺 This free streaming experience smashes platform limits. 💥 Built with JavaScript, 💡it boasts awesome cross-platform compatibility. The open-source community of contributors is 🚀constantly growing! 🌱
 
 ### Social Media Buzz
 
-1.  **OpenClaw can actually find movie and TV resources!**
-    OpenClaw can actually find movie and TV resources! Blogger Fanren Xiaobei tested it and found that OpenClaw could🔥search for film and TV resources online. "Checked it out, and [the link surprisingly wasn't expired (AI News)](https://x.com/frxiaobei/status/2025189952515178721)!" 😲 The blogger griped about streaming services like iQiyi, Youku, and Tencent Video adding💡more membership tiers and locking screencasting to 720p. Even those who support genuine content are being pushed into a corner. 😩
+1.  **From Agents to AGI: Humans Are Getting Dumber?**
+    Orange AI just dropped a 🔥soul-searching question that's sparking a huge debate! 🗣️ **Agent** capabilities are already pushing **AGI** levels, yet humans are seemingly 💡accelerating towards anti-intellectualism. The [original post discussion (AI News)](https://x.com/oran_ge/status/2025704780287676615) includes a truly poignant image. 🖼️ This world is seriously 🚀getting more magical and bizarre! 🤯<br/>![AI News: Comparison chart shows rapid evolution of Agent capabilities and ironic decline of human cognition](https://source.hubtoday.app/images/2026/02/news_01kj43zyrmfk7acc6y18vysssj.avif)<br/>
 
-2.  **A 1983 Wall Street simulation game reverse-engineered and brought back to life!**
-    A 1983 Wall Street simulation game has been reverse-engineered and brought back to life! Someone reverse-engineered🔥115,000 lines of BASIC code from "Wall Street Raiders." [This game once influenced real CEO investment decisions (AI News)](https://x.com/frxiaobei/status/2025145989498372570)! Even Disney couldn't💡crack the source code back then. And now? You can play it online! How cool is that? 🤩
+2.  **Codex & Claude Code: History Log Tricks.**
+    Baoyu just shared a 🔥super practical little tip! ✨ For Codex, you can find your session records in 💡**~/.codex/sessions**. For Claude Code, head over to the **~/.claude/projects** directory. The [original post (AI News)](https://x.com/dotey/status/2025624550512132593) even has screenshots! Now, **reviewing past conversations** 🚀 won't be a struggle anymore. ✅<br/>![AI News: Terminal interface showing Codex chat history file directory structure](https://source.hubtoday.app/images/2026/02/news_01kj440075fk7acc71qahtza12.avif)<br/>
 
-3.  **AI programming makes people fall into the "joy of creation" trap!**
-    AI programming is making people fall into the "joy of creation" trap! Blogger Nazha recounts: "I just wanted to make a post, but then I🔥casually let Claude Code write an Obsidian plugin." [Hours passed before he remembered his main task (AI News)](https://x.com/xiaokedada/status/2025125272161550684)! The💡flow state induced by AI programming is just too powerful. 🌀 His attention got redirected, but luckily, he eventually did make the post. Phew!
+3.  **OpenClaw Founder Catches Big Tech's Eye.**
+    **Peter Steinberger's** OpenClaw is 🔥blowing up! 🚀 It's caught the attention of both **Altman** and Zuckerberg. 👀 This millennial developer has quite the background! 🕵️‍♂️ The [Reddit hot post (AI News)](https://www.reddit.com/r/artificial/comments/1rbpkm5/who_is_openclaw_creator_peter_steinberger_the/) is still buzzing, and Yahoo Finance 🚀even followed up with an [in-depth report (AI News)](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html).
 
-4.  **Remotion's one-sentence video generation is liberating self-media creators!**
-    Remotion's one-sentence video generation is liberating self-media creators! Blogger Huang Yun demonstrates: With Remotion, you can💡generate a video from a single sentence. "Before, I'd frantically search for materials, being on-and-off with my work," 🔥😩 he lamented. But now, [AI can whip up 10 pending posts in minutes (AI News)](https://x.com/huangyun_122/status/2025139650671902820)! However, when creation is no longer hands-on, where's the fun in it? 🤔
+4.  **OpenClaw Far From Production Ready.**
+    A Jike user just dropped a 🔥scathing critique of **OpenClaw's** current state. 📝 They argue that its heavy reliance on the **vibe coding** pattern is a ticking time bomb. 💣 Letting Agents directly modify 💡**JSON configurations** is extremely risky! ⚠️ The [original post analysis (AI News)](https://m.okjike.com/originalPosts/699b24155d8e64d51cba35ed) is super sharp. 🎯 They suggest migrating workflows to more stable platforms like 🚀**n8n**.
 
-5.  **An OpenClaw multi-agent configuration article gets rave reviews!**
-    An OpenClaw multi-agent configuration article is getting rave reviews! Blogger Huang Yun recommends an article about💡OpenClaw, explaining how to configure different large models for agents. "Multi-agent team battles are truly the embryo of a one-person company," 🔥 he posits, implying you can have "assistants" on a 5K salary and "experts" earning 50K. [This multi-agent team play is the embryo of a one-person company (AI News)](https://x.com/huangyun_122/status/2025092428961906932)! The possibilities for pay-per-use outsourcing are endless. 🚀
+5.  **Give OpenClaw a "Family Doctor".**
+    Fanren Xiaobei just shared a 🔥nifty trick! 💡 He suggests spinning up a separate **OpenClaw** instance to act as a "repairman". 🔧 This dedicated instance is solely responsible for fixing glitches in the main Agent cluster. The [original post details (AI News)](https://x.com/frxiaobei/status/2025588559718310077) are definitely worth bookmarking. 🔖 This 🚀**multi-gateway architecture** has already run stable for several rounds! ✅
 
-6.  **Xiaohongshu Ddian chooses "strategy mode" as its breakthrough!**
-    Xiaohongshu Ddian is choosing "strategy mode" as its breakthrough! Blogger Rosicky analyzes that the importance of data is💡**being re-prioritized**. Xiaohongshu Ddian has opted for "strategy mode" as its core feature, [based on real long-tail UGC data from the community (AI News)](https://m.okjike.com/originalPosts/69993dd3c5a1d4e649bfa774). Real-world testing of Hokkaido ski guides showed🔥excellent results. 🏂 The expansion potential in the life services sector is huge.
-<br/>![AI News: Xiaohongshu Ddian Strategy Mode Generates Hokkaido Ski Trip Itinerary](https://source.hubtoday.app/images/2026/02/news_01kj0e50bse02825cna2yzgt8t.avif)<br/>
+6.  **Fundamental Skills Never Go Out of Style in the AI Era.**
+    Baoyu has pinpointed the 🔥core skills for engineers in the AI era. **Underlying principles** and **architectural capabilities** are still 💡scarce. 💎 In the future, humans will need to diagnose systems much like doctors. This [in-depth interview (AI News)](https://x.com/dotey/status/2025446448553193719) is a must-read. 📖 **Product intuition** is even more crucial 🚀 than just writing code.
 
-7.  **How do teams manage the cognitive debt of AI-generated code?**
-    How do teams manage the cognitive debt of AI-generated code? A Reddit user brought up the concept of🔥"cognitive debt": when teams don't understand the AI-generated code. This leads to [on-call engineers struggling to debug and newcomers unable to get up to speed (AI News)](https://www.reddit.com/r/artificial/comments/1ra0q3t/how_is_your_team_managing_comprehension_of/). Suggestions include setting up💡comprehension checkpoints and PR explanation templates. 📝 It's trickier than technical debt, only revealing itself when things go wrong. Yikes!
+<br/>![AI News: Schematic diagram showing the evolution of software development from low-level assembly to AI-era abstraction layers](https://source.hubtoday.app/images/2026/02/news_01kj4403acfk7acc7bsfghn8k7.avif)<br/>
+
+7.  **Squat to Tweet, Heart, and Like Assistant.**
+    Lv Liqing just 🚀**vibed up** another health gadget! 🏋️‍♀️ Squats trigger Twitter likes and hearts. So while your **AI Agent** works for you, 💡you just focus on staying healthy! [Watching the demo video (AI News)](https://x.com/Jimmy_JingLv/status/2025475730990407981) had me cracking up. 😂 Your body is truly your biggest asset for enjoying tech dividends. 💪
+
+8.  **AI Can't Bridge the Capability Gap.**
+    Dashuai Laoyuan hit the nail on the head 🔥, pointing out a stark truth: AI can't save those who don't grasp **content logic**. If you couldn't make money before, 💡it's tough to turn things around with AI. The [original post (AI News)](https://x.com/ezshine/status/2025394154671661217) truly resonated. 💬 Elevating your 🚀**cognitive level** is the real game-changer.
+
+9.  **AI Doomsayers Lack Imagination.**
+    Yubo dropped a 🔥thought-provoking, lengthy reflection on Jike. 🤔 While the **EvoMap** capsule boosts experience reuse 💡efficiency, beyond mere efficiency lies the **vast unknown**. 🌌 AI coding videos 🚀struggle to surpass the bounds of human imagination. This [original post discussion (AI News)](https://m.okjike.com/originalPosts/699a6011c5a1d4e649dca900) is definitely worth a deep dive. 📖
+
+10. **Human Coders VS. AI Coding Agents.**
+    Lv Liqing shared a 😂hilarious comparison video! Traditional coders are getting utterly dimensionally-smashed 💥by **AI Agents**. **Automated programming** is straight-up black magic! ✨ [See the original post (AI News)](https://x.com/Jimmy_JingLv/status/2025228961173962839) to laugh 'til you break. 😂 The age of manual craftsmanship might actually be over! 🔚
 
 ---
 
-## AI News Daily Multi-Channel
+## **AI Daily News Multi-Channel**
 
 | 💬 **WeChat Official Account** | 📹 **Douyin** |
 | --- | --- |
-| Official Account: Hexi2077 | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| Official Account: Hexi 2077 | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
 | ![WeChat Official Account](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
